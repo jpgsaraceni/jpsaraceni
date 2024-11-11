@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-* 👨‍👧 &nbsp;Father of 7-year-old Lina.
+* 👨‍👧 &nbsp;Father of 9-year-old Lina.
 * 👨‍🏫 &nbsp;English, Math, Physics and Programming teacher.
 * 🎇 &nbsp;Star Wars enthusiast.
 * 🇭🇺 &nbsp;Tricolor.
@@ -35,6 +35,7 @@
   [![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-333333?style=flat&logo=apache-kafka)](https://github.com/jpgsaraceni/best-funks)
   [![Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=apache-airflow)](https://airflow.apache.org/)
   [![Spark](https://img.shields.io/badge/-Spark-333333?style=flat&logo=apache-spark)](https://spark.apache.org/)
+  [![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-web-services)](https://aws.amazon.com/pt)
   
 * 🔧 &nbsp;
   [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
